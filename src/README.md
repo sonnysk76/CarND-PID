@@ -1,6 +1,6 @@
 [//]: # (Image References)
 [imagen1]: ./images/turn1.png "Turn"
-[imagen2]: ./imagenes/turn2.png "Turn"
+[imagen2]: ./images/turn2.png "Turn"
 
 ### Describe the effect each of the P, I, D components had in your implementation.
 
